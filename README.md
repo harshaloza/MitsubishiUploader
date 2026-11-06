@@ -100,3 +100,7 @@ dotnet run --project tests/MitsubishiUploader.Tests.csproj -c Release
 | `FtpSession.cs` | FTP over NC Explorer: login, folders, timeouts, file transfer |
 | `AppSettings.cs` | Reads and checks the settings file |
 | `Installer.cs` | Setup and uninstall: copies the exe and adds or removes the right-click menu, Start menu shortcut and *Settings > Apps* entry |
+
+## License
+
+[MIT](LICENSE). Mitsubishi and NC Explorer are trademarks of Mitsubishi Electric. This project is not affiliated with or endorsed by Mitsubishi Electric.
