@@ -1,0 +1,8 @@
+bin/
+obj/
+dist/
+.vs/
+*.user
+*.wixpdb
+tests/bin/
+tests/obj/
